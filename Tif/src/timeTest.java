@@ -12,7 +12,7 @@ public class timeTest {
 		cal.set(cal.HOUR_OF_DAY, 00);
 		cal.set(cal.MINUTE, 00);
 		cal.set(cal.SECOND, 00);
-	
+	csm
 		// interval 분 만큼 더한다.
 		int intervalMin = 10;
 		for(int i = 0; i < 1439; i++) {
